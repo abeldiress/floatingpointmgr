@@ -1,0 +1,4 @@
+find_package(benchmark REQUIRED)
+
+add_executable(benchmark_FloatingPointManager benchmark_FloatingPointManager.cpp ../src/FloatingPointManager.cpp)
+target_link_libraries(benchmark_FloatingPointManager benchmark::benchmark)
