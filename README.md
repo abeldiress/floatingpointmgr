@@ -1,7 +1,5 @@
 # Floating Point Manager
 
-# Floating Point Manager
-
 FloatingPointMgr is a C++ project for experimenting with floating-point behavior, precision handling, and performance characteristics. It serves as a small, modular sandbox for testing and benchmarking floating-point operations.
 
 ## Structure
